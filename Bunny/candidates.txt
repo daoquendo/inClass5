@@ -1,0 +1,4 @@
+Candidates for refactoring:
+- void reset() and void replay(): they pretty much do the same so it can be incorporated into 1 function.
+- class Bush.java is empty
+- void allowMoves() is never call
